@@ -1,2 +1,2 @@
-# Shotest-c
+# Shortest-c
 shortest  c program
